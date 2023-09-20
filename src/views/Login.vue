@@ -1,11 +1,11 @@
 <template>
   <div>
-    <Home />
+    <Login />
   </div>
 </template>
 
 <script setup>
-import Home from "../components/HomeView.vue";
+import Login from "../components/Login.vue";
 </script>
 
 <style lang="scss" scoped></style>

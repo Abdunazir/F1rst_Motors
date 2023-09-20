@@ -1,11 +1,11 @@
 <template>
   <div>
-    <Home />
+    <Cars/>
   </div>
 </template>
 
 <script setup>
-import Home from "../components/HomeView.vue";
+import Cars from "../components/Cars.vue";
 </script>
 
 <style lang="scss" scoped></style>
